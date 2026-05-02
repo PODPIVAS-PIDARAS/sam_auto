@@ -1,3 +1,3 @@
-1. download steam achievement manager
-2. use my app
+1. Download steam achievement manager
+2. Use my app
    
